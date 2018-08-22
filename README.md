@@ -1,8 +1,10 @@
 # Jobsheet1
 Aritmatika
+
 ![alt text](https://github.com/RickyRahmadani10/Jobsheet1/blob/master/Aritmatika.PNG)
 
 Beasiswa
+
 ![alt text](https://github.com/RickyRahmadani10/Jobsheet1/blob/master/Beasiswa.PNG)
 
 Counter
